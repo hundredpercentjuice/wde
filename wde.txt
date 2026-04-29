@@ -536,7 +536,7 @@ Clickables :
 	-says Time Rewound: Your cosmic knowledge has been converted into future knowledge capsules. Damages that buildings have dealt have been exchanged for their respective type of coin, if there is any.
 	-says The Time Bear is coming.
 
-    *damageConverter 
+    *damageConverter
     -multiplies tesseractDamage 1e-98%
     -converts tesseractDamage to prePrestige
     -named Convert all 4th Dimension damage to Cosmic Knowledge
