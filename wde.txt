@@ -1758,7 +1758,7 @@ Buildings :
 	-named Edge Being|Edge Beings
 	-represents 1 building
 	
-	*strangeGlitch
+	*glitchBuilding
 	-"Strange building<br>Deals <b>50 septillion</b> base damage.<br><i>For some reason, you find the manipulative property of an oversight to be well worth exploiting. Let's hope this doesn't bite us.</i>"
 	-costs 1e30 money
 	-gives 5e25 money
