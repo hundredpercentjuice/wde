@@ -537,9 +537,9 @@ Clickables :
 	-says The Time Bear is coming.
 
     *damageConverter
-    -multiplies tesseractDamage 1e-98%
-    -converts tesseractDamage to prePrestige
-    -named Convert all 4th Dimension damage to Cosmic Knowledge
+	-multiplies tesseractDamage 1e-98%
+	-converts tesseractDamage to prePrestige
+	-named Convert all 4th Dimension damage to Cosmic Knowledge
 
 Buildings :
 	*timeCounter
